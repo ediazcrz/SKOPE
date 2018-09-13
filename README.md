@@ -14,8 +14,8 @@ Unity Version: 2018.2.7
 Download Link: https://unity3d.com/get-unity/download/archive
 
 Vuforia Model Target Generator Link: https://developer.vuforia.com/downloads/tool 
-To use generator first register as a developer on Vuforia's developer portal (see link below). Please be advised that every account is under allowed to generate 10 models
-under the free license.
+To use generator first register as a developer on Vuforia's developer portal (see link below). Please be advised that every account is allowed to generate at most 10 
+models under the free license.
 
 Vuforia Developer Portal Link: https://developer.vuforia.com/vui/auth/login
 
