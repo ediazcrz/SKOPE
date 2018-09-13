@@ -2,11 +2,10 @@
 Learning with Augmented/Virtual Reality
 
 	SKOPE is a Virtual Reality, and Augmented Reality project built in the Unity 3D game engine environment. Students
-enrolled in architecture classes will utilize the project for virtual, and site investigations of the SIPA building located 
-on the FIU campus.  Students will learn about various features of the building through interaction with simulations and animations 
-to better understand how the building works.
+enrolled in architecture classes will utilize the project for virtual, and site investigations of the SIPA building located on the FIU campus. 
+Students will learn about various features of the building through interaction with simulations and animations to better understand how the building works.
 
-Tools:
+Recommended Software:
 
 Unity Version: 2018.2.7
 Download Link: https://unity3d.com/get-unity/download/archive
